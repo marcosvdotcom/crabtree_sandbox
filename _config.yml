@@ -8,14 +8,13 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/crabtree
+baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/crabtree_source
+source-code: https://github.com/marcosvdotcom/crabtree_sandbox
 
-# url to the shared assets folder on mainweb
-digital-assets: https://www.lib.uidaho.edu/assets
+
 
 ##########
 # SITE SETTINGS
